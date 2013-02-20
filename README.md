@@ -1,4 +1,4 @@
 BOP
 ===
 
-code realize for  the book "Beauty of Programming"
+编程之美一书中各章节的代码本人实现版
